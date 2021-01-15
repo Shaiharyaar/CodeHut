@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "145306266709",
+    "project_id": "codehut-project",
+    "storage_bucket": "codehut-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:145306266709:android:f76d462a49dba1e62bf8dc",
+        "android_client_info": {
+          "package_name": "com.codehut"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "145306266709-uk46nl2j9fluh8on1dvdbo21rq9okpi0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.codehut",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "145306266709-ia198m45h2dd753bllplsidkle5ucn78.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0dJhYf4m8Q1m103x_nuKZolIyyPjvUto"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "145306266709-ia198m45h2dd753bllplsidkle5ucn78.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
